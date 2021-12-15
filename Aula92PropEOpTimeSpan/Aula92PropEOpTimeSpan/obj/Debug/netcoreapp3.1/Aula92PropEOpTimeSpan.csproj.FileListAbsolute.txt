@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\bin\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.exe
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\bin\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.deps.json
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\bin\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\bin\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\bin\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.dll
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\bin\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.pdb
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\obj\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\obj\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\obj\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\obj\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\obj\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.dll
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\obj\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.pdb
+C:\Users\Pedro Victor\source\repos\Aula92PropEOpTimeSpan\Aula92PropEOpTimeSpan\obj\Debug\netcoreapp3.1\Aula92PropEOpTimeSpan.genruntimeconfig.cache
