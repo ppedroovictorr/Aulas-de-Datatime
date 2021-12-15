@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\bin\Debug\netcoreapp3.1\Aula91PropEOpDateTime.exe
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\bin\Debug\netcoreapp3.1\Aula91PropEOpDateTime.deps.json
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\bin\Debug\netcoreapp3.1\Aula91PropEOpDateTime.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\bin\Debug\netcoreapp3.1\Aula91PropEOpDateTime.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\bin\Debug\netcoreapp3.1\Aula91PropEOpDateTime.dll
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\bin\Debug\netcoreapp3.1\Aula91PropEOpDateTime.pdb
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\obj\Debug\netcoreapp3.1\Aula91PropEOpDateTime.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\obj\Debug\netcoreapp3.1\Aula91PropEOpDateTime.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\obj\Debug\netcoreapp3.1\Aula91PropEOpDateTime.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\obj\Debug\netcoreapp3.1\Aula91PropEOpDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\obj\Debug\netcoreapp3.1\Aula91PropEOpDateTime.dll
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\obj\Debug\netcoreapp3.1\Aula91PropEOpDateTime.pdb
+C:\Users\Pedro Victor\source\repos\Aula91PropEOpDateTime\Aula91PropEOpDateTime\obj\Debug\netcoreapp3.1\Aula91PropEOpDateTime.genruntimeconfig.cache
